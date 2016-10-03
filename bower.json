@@ -1,0 +1,20 @@
+{
+  "name": "react-skeleton",
+  "description": "React Skeleton",
+  "main": "index.js",
+  "authors": [
+    "Martin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mortl/react-skeleton",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
